@@ -1,0 +1,16 @@
+#Day3ofClg_askmitra #Clg_askmitra30days
+
+Hello, this is Suyan Shrestha. As you all know I'm participating in the ITSNP X Askmitra 30-Days challenge and Today is my third day. I encourage everyone to begin their 100 days by learning anything they choose; it will be fun. I’m excited already. If you want to start learning more about this program here: https://clg.askmitra.com
+
+Today, I made menu section for my 'khaniGoals'. Users can either select specific category to filter out food items, as well as view all items in an unfiltered way through exploreMenu section. For each food item, I have made a FoodItem component, whereas for overall display, I have made FoodDisplay section. For users to be able to select All or specific category, I have made ExploreMenu section.
+
+Practice Code is present at my github :
+https://github.com/SuyanShrestha/30DaysofCodeApril2024
+
+
+Tags : 
+#Day3ofClg_askmitra #learningeveryday #growingeveryday
+
+If you’re interested start here:https://clg.askmitra.com 
+
+Thank you. 
