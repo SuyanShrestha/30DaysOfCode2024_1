@@ -1,0 +1,26 @@
+#Day9ofClg_askmitra #Clg_askmitra30days
+
+Hello, this is Suyan Shrestha. As you all know I'm participating in the ITSNP X Askmitra 30-days challenge and Today is my ninth day. I encourage everyone to begin their 30 days by learning anything they choose; it will be fun. I’m excited already. If you want to start learning more about this program here: https://clg.askmitra.com
+
+From today, I started learning React native. Today I learnt about managed vs bare expo, simply did the installation thingy, and learnt about basic core components in react native. They were :
+- View
+- Text
+- Image
+- TextINput
+- ScrollView
+- Stylesheet
+
+Summary:
+
+In React Native, 'View' serves as the fundamental building block for structuring UI layouts, providing a container for other components and facilitating their arrangement within the app. 'Text' is utilized for displaying textual content, allowing for customization of font styles, sizes, and colors to enhance readability. 'Image' enables the integration of visual elements into the app interface, supporting various formats and sources to display graphics or images. 'TextInput' empowers user input interaction by offering a platform for users to enter text or data, facilitating forms, search bars, and messaging functionalities. 'ScrollView' facilitates the seamless navigation through content that exceeds the screen size, enabling smooth scrolling and interaction with lengthy lists or text. Lastly, 'Stylesheet' acts as a powerful tool for managing and applying consistent styling across components, enhancing the visual appeal and user experience of the React Native application.
+
+Practice Code is present at my github :
+https://github.com/SuyanShrestha/30DaysofCode2024_1
+
+
+Tags :
+#Day9ofClg_askmitra #learningeveryday #growingeveryday
+
+If you’re interested start here:https://clg.askmitra.com
+
+Thank you.
