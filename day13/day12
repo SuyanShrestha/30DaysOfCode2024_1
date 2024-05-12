@@ -1,0 +1,16 @@
+#Day13ofClg_askmitra #Clg_askmitra30days
+
+Hello, this is Suyan Shrestha. As you all know I'm participating in the ITSNP X Askmitra 30-days challenge and Today is my thirteenth day. I encourage everyone to begin their 30 days by learning anything they choose; it will be fun. I’m excited already. If you want to start learning more about this program here: https://clg.askmitra.com
+
+Currently I am learning React native. Today, I continued my project SwaadSansaar on React Native, and took two days to complete Home screen, categories component, applied masonry list, and also tried applying AsyncStorage. Firstly, I had tried to fetch image data and put it like a cache in AsyncStorage, but on further research I found out that it only offered 6MB size. Since using cached image just for categories component already occupied 3MB out of 6MB in async storage, it wasnt enough to hold data from other food items through API, so, I didnt apply it over. I am still looking for some compression techniques or so, and will try to implement it on later phase of this project.
+
+Practice Code is present at my github :
+https://github.com/SuyanShrestha/30DaysofCode2024_1
+
+
+Tags :
+#Day13ofClg_askmitra #learningeveryday #growingeveryday
+
+If you’re interested start here:https://clg.askmitra.com
+
+Thank you.
