@@ -1,0 +1,16 @@
+#Day14ofClg_askmitra #Clg_askmitra30days
+
+Hello, this is Suyan Shrestha. As you all know I'm participating in the ITSNP X Askmitra 30-days challenge and Today is my fourteenth day. I encourage everyone to begin their 30 days by learning anything they choose; it will be fun. I’m excited already. If you want to start learning more about this program here: https://clg.askmitra.com
+
+Currently I am learning React native. Today, I continued my project SwaadSansaar on React Native, and made this recipe detail screen. It contains a back icon and a favourites icon. Furthermore, I have added some miscallenous stuff like calories, time to cook and stuff. Since they werenot actually present in API data, they are just dummy data for now. Then, I tried to embed some youtube video too on this. Although it works fine, it still shows error in the console like "cannot read properties of undefined: postMessage". I am trying to figure it out and will prolly get it done sooner or later.
+
+Practice Code is present at my github :
+https://github.com/SuyanShrestha/30DaysofCode2024_1
+
+
+Tags :
+#Day14ofClg_askmitra #learningeveryday #growingeveryday
+
+If you’re interested start here:https://clg.askmitra.com
+
+Thank you.
