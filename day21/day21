@@ -1,0 +1,22 @@
+#Day21ofClg_askmitra #Clg_askmitra30days
+
+Hello, this is Suyan Shrestha. As you all know I'm participating in the ITSNP X Askmitra 30-days challenge and Today is my twenty-first day. I encourage everyone to begin their 30 days by learning anything they choose; it will be fun. I’m excited already. If you want to start learning more about this program here: https://clg.askmitra.com
+
+Today, I just did some comfort learning and learnt a bit more about MongoDB. Today I learnt about :
+- schema validation
+- making updates in schema validation using runCommmand
+- using map function in mongodb
+
+Summary:
+Today, I deepened my understanding of MongoDB by learning about three specific topics. Firstly, I delved into schema validation, which is essential for ensuring data integrity and consistency by enforcing rules and constraints on the data being inserted into a database. Secondly, I learned how to make updates in schema validation using the runCommand method, a powerful feature that allows for dynamic adjustments and refinements to schema validation rules without requiring a complete database overhaul. Lastly, I explored the use of the map function in MongoDB, which enables complex data transformations and manipulations directly within the database, facilitating more efficient and streamlined data processing. This focused learning session enhanced my ability to manage and manipulate MongoDB databases more effectively.
+
+Practice Code is present at my github :
+https://github.com/SuyanShrestha/30DaysofCode2024_1
+
+
+Tags :
+#Day21ofClg_askmitra #learningeveryday #growingeveryday
+
+If you’re interested start here:https://clg.askmitra.com
+
+Thank you.
