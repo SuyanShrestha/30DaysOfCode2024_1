@@ -1,0 +1,23 @@
+#Day22ofClg_askmitra #Clg_askmitra30days
+
+Hello, this is Suyan Shrestha. As you all know I'm participating in the ITSNP X Askmitra 30-days challenge and Today is my twenty-second day. I encourage everyone to begin their 30 days by learning anything they choose; it will be fun. I’m excited already. If you want to start learning more about this program here: https://clg.askmitra.com
+
+Today, I just did some comfort learning and learnt a bit more about MongoDB. Today I learnt about :
+- writeConcern
+- Journal
+- mongoimport
+- Atomicity in mongodb
+
+Summary:
+In MongoDB, writeConcern is a setting that specifies the level of acknowledgment requested from MongoDB for write operations, ensuring the durability and replication of the written data as per defined levels such as "acknowledged," "journaled," or "replica acknowledged." The Journal is a write-ahead log that records all changes to the in-memory state of the database, providing durability by ensuring that even in the event of a crash, operations can be replayed from the journal to restore consistency. mongoimport is a command-line utility used to import content from various data formats such as JSON, CSV, or TSV into MongoDB collections, facilitating data migration and initial database population. Atomicity in MongoDB refers to the guarantee that certain operations, such as updates to individual documents or transactions encompassing multiple operations across multiple documents and collections, are executed fully or not at all, maintaining consistency and integrity within the database.
+
+Practice Code is present at my github :
+https://github.com/SuyanShrestha/30DaysofCode2024_1
+
+
+Tags :
+#Day22ofClg_askmitra #learningeveryday #growingeveryday
+
+If you’re interested start here:https://clg.askmitra.com
+
+Thank you.
