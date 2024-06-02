@@ -1,0 +1,22 @@
+#Day23ofClg_askmitra #Clg_askmitra30days
+
+Hello, this is Suyan Shrestha. As you all know I'm participating in the ITSNP X Askmitra 30-days challenge and Today is my twenty-third day. I encourage everyone to begin their 30 days by learning anything they choose; it will be fun. I’m excited already. If you want to start learning more about this program here: https://clg.askmitra.com
+
+Today, I just did some comfort learning and learnt a bit more about MongoDB. Today I learnt about :
+- comparision operators (lte, gte, lt, gt, eq, ne, in, nin)
+- logical operators (and, or, nor, not)
+- element query operator (type, exists)
+
+Summary:
+In MongoDB, comparison operators are used to filter documents based on specific conditions: lte (less than or equal to), gte (greater than or equal to), lt (less than), gt (greater than), eq (equal), ne (not equal), in (within a specified array of values), and nin (not within a specified array of values). Logical operators allow combining multiple query conditions: and (all conditions must be true), or (at least one condition must be true), nor (none of the conditions should be true), and not (negates a condition). Element query operators help verify the presence and type of fields in documents: type matches documents where a field is of a specified BSON type, and exists checks for the presence or absence of a field. These operators are essential for building complex and precise queries in MongoDB.
+
+Practice Code is present at my github :
+https://github.com/SuyanShrestha/30DaysofCode2024_1
+
+
+Tags :
+#Day23ofClg_askmitra #learningeveryday #growingeveryday
+
+If you’re interested start here:https://clg.askmitra.com
+
+Thank you.
