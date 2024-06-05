@@ -1,0 +1,25 @@
+ 
+
+#Day28ofClg_askmitra #Clg_askmitra30days
+
+Hello, this is Suyan Shrestha. As you all know I'm participating in the ITSNP X Askmitra 30-days challenge and Today is my twenty-eighth day. I encourage everyone to begin their 30 days by learning anything they choose; it will be fun. I’m excited already. If you want to start learning more about this program here: https://clg.askmitra.com
+
+Today, I learnt some more linux commands. Today, i covered up commands lying on five more sections, and their different options, and then made a detailed documentation on those commands with usable screenshots and examples. The sections i covered were :
+- filter
+- linux networking
+- users
+- system admin command
+- linux file security
+
+THe list of commands in each section is tabulated below.
+
+Practice Code is present at my github :
+https://github.com/SuyanShrestha/30DaysofCode2024_1
+
+
+Tags :
+#Day28ofClg_askmitra #learningeveryday #growingeveryday
+
+If you’re interested start here:https://clg.askmitra.com
+
+Thank you.
